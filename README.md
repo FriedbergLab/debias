@@ -270,7 +270,7 @@ file, the user has been given the opportunity to give a prefix.
 To test all the commands mentioned above, you can run the shell script named test.sh in the tests directory.
 
 ```
-git clone https://github.com/Rinoahu/debias
+git clone https://github.com/FriedbergLab/debias
 cd ./debias/tests
 bash test.sh
 ```
